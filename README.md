@@ -1,6 +1,6 @@
 # final-project
 
-DEVELOPMENT
+DEVELOPMENT (https://vimeo.com/282742245)
 * Open 2 CLI windows, 1 for your server & 1 for your client
 1. *cd group-project*
 2. *npm install* 
@@ -9,7 +9,7 @@ DEVELOPMENT
 5. *npm install*
 6. *npm start*
 
-PRODUCTION
+PRODUCTION (https://vimeo.com/284967610)
 * To deploy your app to Heroku, complete the following steps:
 1. Uncomment the production code in *server.js*
 2. Save & create a pull request - wait for merge to master
